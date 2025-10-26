@@ -38,10 +38,3 @@ Dari hasil pengujian yang dilakukan, seluruh fungsi utama berjalan sesuai kebutu
 ## 8. Kesimpulan
 Melalui proyek ini, saya mempraktikkan proses Quality Assurance secara menyeluruh mulai dari pembuatan test case, pelaksanaan pengujian fungsional dan struktural, hingga dokumentasi hasil uji. Pengalaman ini mengasah kemampuan saya dalam analisis sistem, ketelitian, serta komunikasi dengan tim developer untuk memastikan kualitas perangkat lunak.
 
----
-
-### Kontak
-- **Nama:** Hazel Pearce  
-- **Email:** (masukkan email kamu di sini)  
-- **LinkedIn:** (masukkan link LinkedIn kamu, jika ada)
-

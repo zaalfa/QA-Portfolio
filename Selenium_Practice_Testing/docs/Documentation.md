@@ -76,7 +76,7 @@ selenium_practice_testing/
 
 **Status:** Passed  
 **Bukti Screenshot:**  
-![Login Success](../selenium_practice_testing/screenshots/login_success.png)
+![Login Success](QA-Portfolio/selenium_practice_testing/screenshots/login_success.png)
 
 ---
 
@@ -84,7 +84,7 @@ selenium_practice_testing/
 
 **Status:** Passed (menampilkan pesan error sesuai ekspektasi)  
 **Bukti Screenshot:**  
-![Login Failed](../selenium_practice_testing/screenshots/login_failed.png)
+![Login Failed](QA-Portfolio/selenium_practice_testing/screenshots/login_failed.png)
 
 ---
 

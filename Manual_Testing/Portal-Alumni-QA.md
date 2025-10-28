@@ -71,7 +71,3 @@ Pengujian dilakukan secara manual menggunakan browser (**Google Chrome**), denga
 Proyek ini menjadi pengalaman berharga dalam menerapkan proses _Quality Assurance_ secara menyeluruh — mulai dari pembuatan test case, pelaksanaan pengujian manual, hingga dokumentasi hasil uji.  
 Seluruh pengujian menunjukkan bahwa sistem berfungsi dengan baik tanpa bug, serta telah memenuhi kebutuhan pengguna dan spesifikasi teknis yang ditetapkan.  
 Melalui proyek ini, saya mengasah kemampuan analisis sistem, ketelitian dalam verifikasi hasil, dan komunikasi efektif dengan tim developer untuk menjaga kualitas produk perangkat lunak.
-
----
-
-### 📁 Struktur Folder (Contoh)

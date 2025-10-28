@@ -50,8 +50,8 @@ The portfolio is divided into two main parts:
 ---
 
 ## 👩‍💻 Author
-**Hazel Zalfa**  
-📍 Quality Assurance Enthusiast  
+**T. Zalfa Ramadhani**  
+📍 Quality Assurance  
 💡 Passionate about ensuring software reliability and user satisfaction  
 
 ---

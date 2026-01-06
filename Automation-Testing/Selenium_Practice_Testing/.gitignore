@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+
+# Driver
+drivers/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

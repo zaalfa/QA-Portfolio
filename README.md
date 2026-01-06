@@ -56,7 +56,7 @@ Demonstrates web UI test automation using **Selenium WebDriver with Python and P
 
 - **Saucedemo E-Commerce Automation**  
   End-to-end UI automation framework for the Saucedemo e-commerce application using **Selenium, Pytest, and Page Object Model (POM)**.  
-  🔗 https://www.saucedemo.com
+  🔗 https://www.saucedemo.com  
   Covers login, product management, and shopping cart flows with documented browser-level limitations.
 
 ---

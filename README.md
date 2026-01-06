@@ -1,60 +1,77 @@
 # 🧩 QA Portfolio
 
-This repository showcases a collection of **Quality Assurance (QA)** projects that demonstrate both **manual** and **automation testing** skills.  
-Each project reflects different testing approaches, documentation styles, and tools used in real-world QA workflows.
+This repository contains a collection of **Quality Assurance (QA)** projects showcasing experience in both **manual testing** and **test automation**.  
+Each project demonstrates practical QA workflows, tools, and documentation commonly used in real-world software testing.
 
 ---
 
 ## 📘 Overview
 
-The portfolio is divided into two main parts:
+This portfolio is organized into two main categories:
 
-1. **Manual Testing Projects**  
-   Focused on functional and requirement-based testing using black-box and white-box techniques.  
-   Includes detailed test cases, execution results, and validation reports.
+### 1️⃣ Manual Testing Projects  
+Focused on functional, requirement-based, and exploratory testing.  
+Includes test cases, test scenarios, execution results, and defect documentation.
 
-2. **Automation Testing Projects**  
-   Demonstrates automated web testing using **Selenium WebDriver**.  
-   Covers element interactions, assertion checks, and screenshot verification for visual validation.
+### 2️⃣ Automation Testing Projects  
+Demonstrates web UI test automation using **Selenium WebDriver with Python and Pytest**, applying structured frameworks and best practices.
 
 ---
 
 ## 🧪 Skills Demonstrated
 - Test planning and documentation  
-- Functional testing (manual and automated)  
+- Manual functional testing  
+- UI test automation  
 - Test case design and execution  
-- Bug identification and verification  
-- Use of Selenium WebDriver for browser automation  
-- Reporting and result validation  
+- Bug identification and validation  
+- Page Object Model (POM) implementation  
+- Test reporting and failure analysis  
 
 ---
 
 ## 🧰 Tools & Technologies
+
 | Category | Tools |
-|-----------|-------|
-| Test Automation | Selenium WebDriver, Python |
+|---------|-------|
+| Test Automation | Selenium WebDriver, Python, Pytest |
 | Manual Testing | Microsoft Excel, Google Sheets |
-| Web Browser | Google Chrome |
-| Local Server | XAMPP |
+| Browser | Google Chrome |
+| Reporting | Pytest-HTML, Screenshots |
 | Code Editor | Visual Studio Code |
 | Version Control | Git & GitHub |
 
 ---
 
-## 🧾 Included Projects
-| Project Type | Description |
-|---------------|-------------|
-| **Manual Testing** | QA testing documentation for a university alumni portal website. Focus on requirement validation and user workflow testing. |
-| **Automation Testing** | Selenium-based test scripts for the demo website [Practice Software Testing](https://practicesoftwaretesting.com), including assertions and screenshot validation. |
+## 🧾 Projects Included
+
+### 📂 Manual Testing
+- **Alumni Portal QA Documentation**  
+  Manual testing project focused on requirement validation, user workflows, and functional verification for a university alumni portal.
+
+### 📂 Automation Testing
+- **Practice Software Testing Automation**  
+  Selenium-based UI automation project for  
+  🔗 https://practicesoftwaretesting.com  
+  Includes assertions, screenshots, and basic interaction validation.
+
+- **Saucedemo E-Commerce Automation**  
+  End-to-end UI automation framework for the Saucedemo e-commerce application using **Selenium, Pytest, and Page Object Model (POM)**.  
+  Covers login, product management, and shopping cart flows with documented browser-level limitations.
+
+---
+
+## 📌 Notes
+Some UI automation tests may be affected by browser-level security popups controlled by Google Chrome.  
+Such limitations are documented within the respective project README to ensure transparency and correctness of test results.
 
 ---
 
 ## 👩‍💻 Author
 **T. Zalfa Ramadhani**  
-📍 Quality Assurance  
-💡 Passionate about ensuring software reliability and user satisfaction  
+Quality Assurance Enthusiast  
+Focused on delivering reliable, well-tested, and user-focused software
 
 ---
 
 ### 🏷️ Tags
-`#QualityAssurance` `#ManualTesting` `#AutomationTesting` `#Selenium` `#Python` `#SoftwareTesting` `#Portfolio`
+`#QualityAssurance` `#ManualTesting` `#AutomationTesting` `#Selenium` `#Python` `#Pytest` `#QAEngineer` `#Portfolio`

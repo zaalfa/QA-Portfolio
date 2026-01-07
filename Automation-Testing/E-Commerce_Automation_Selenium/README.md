@@ -163,6 +163,63 @@ pytest -v  # Verbose
 pytest -vv # Extra verbose
 ```
 
+## 🧪 Test Case Mapping
+
+The following table provides a high-level mapping of automated test cases implemented in this project.  
+Detailed test steps, preconditions, and assertions are defined directly in the automation code following the Page Object Model (POM) pattern.
+
+---
+
+### 🔐 Login Functionality
+
+| Test ID | Test Case Name | Description |
+|--------|----------------|-------------|
+| TC_LOGIN_01 | Valid Login | Verify user can log in using valid credentials and is redirected to the Products page |
+| TC_LOGIN_02 | Invalid Username | Verify login fails when using an invalid username |
+| TC_LOGIN_03 | Invalid Password | Verify login fails when using an invalid password |
+| TC_LOGIN_04 | Empty Username | Verify validation error when username field is empty |
+| TC_LOGIN_05 | Empty Password | Verify validation error when password field is empty |
+| TC_LOGIN_06 | Both Fields Empty | Verify error message is displayed when both username and password are empty |
+| TC_LOGIN_07 | Locked Out User | Verify locked-out user cannot log in |
+| TC_LOGIN_08 | Invalid Login Scenarios (Parametrized) | Verify multiple invalid login combinations using data-driven testing |
+
+---
+
+### 🚪 Logout Functionality
+
+| Test ID | Test Case Name | Description |
+|--------|----------------|-------------|
+| TC_LOGOUT_01 | Successful Logout | Verify user can log out and is redirected to the login page |
+
+---
+
+### 🛍️ Products Page Functionality
+
+| Test ID | Test Case Name | Description |
+|--------|----------------|-------------|
+| TC_PROD_01 | Products Page Load | Verify products page loads successfully after login |
+| TC_PROD_02 | Product Count Display | Verify correct number of products is displayed |
+| TC_PROD_03 | Initial Cart State | Verify cart is empty when products page loads |
+| TC_PROD_04 | Add Single Product | Verify user can add a single product to the cart |
+| TC_PROD_05 | Add Multiple Products | Verify user can add multiple products to the cart |
+| TC_PROD_06 | Add All Products | Verify user can add all available products to the cart |
+| TC_PROD_07 | Navigate to Cart | Verify user can navigate from products page to cart page |
+
+---
+
+### 🛒 Shopping Cart Functionality
+
+| Test ID | Test Case Name | Description |
+|--------|----------------|-------------|
+| TC_CART_01 | View Empty Cart | Verify empty cart displays zero items |
+| TC_CART_02 | Cart With Items | Verify cart displays correct number of added items |
+| TC_CART_03 | Remove Single Item | Verify user can remove a single item from the cart |
+| TC_CART_04 | Remove All Items | Verify user can remove all items from the cart |
+| TC_CART_05 | Checkout Button Display | Verify checkout button is visible in the cart |
+| TC_CART_06 | Continue Shopping | Verify user can return to products page from cart |
+| TC_CART_07 | Cart Persistence | Verify cart maintains items across page navigation |
+
+
 ## 📊 Test Reports
 
 After test execution, reports are generated in:
